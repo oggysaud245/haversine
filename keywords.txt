@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+toRadians	KEYWORD2
+toDegrees	KEYWORD2
+calculateAzimuth	KEYWORD2
+calculateDistance	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
